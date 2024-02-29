@@ -55,5 +55,6 @@ payload:
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
+  - DOMAIN-SUFFIX,h264.io
   - PROCESS-NAME,com.hbo.hbonow
   - PROCESS-NAME,com.hbo.max
