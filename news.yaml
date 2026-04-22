@@ -1,0 +1,38 @@
+payload:
+  # --- The New York Times (纽约时报) ---
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,nyt.com
+  - DOMAIN-SUFFIX,nytco.com
+  - DOMAIN-SUFFIX,nytimg.com
+  - DOMAIN-SUFFIX,nytstyle.com
+  - DOMAIN-SUFFIX,newyorktimes.com
+
+  # --- Reuters (路透社) ---
+  - DOMAIN-SUFFIX,reuters.com
+  - DOMAIN-SUFFIX,reutersmedia.net
+  - DOMAIN-SUFFIX,reut.rs
+  - DOMAIN-SUFFIX,thomsonreuters.com
+
+  # --- Bloomberg (彭博社) ---
+  - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,bloomberg.net
+  - DOMAIN-SUFFIX,bloomberglp.com
+  - DOMAIN-SUFFIX,bba.bloomberg.com
+
+  # --- 其他主流国际媒体补全 ---
+  # Wall Street Journal (华尔街日报)
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,wsj.net
+  # Financial Times (金融时报)
+  - DOMAIN-SUFFIX,ft.com
+  - DOMAIN-SUFFIX,ftstatic.com
+  # Associated Press (美联社)
+  - DOMAIN-SUFFIX,ap.org
+  - DOMAIN-SUFFIX,apnews.com
+  # BBC
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbc.co.uk
+  # The Economist (经济学人)
+  - DOMAIN-SUFFIX,economist.com
+  - DOMAIN-SUFFIX,static-economist.com
